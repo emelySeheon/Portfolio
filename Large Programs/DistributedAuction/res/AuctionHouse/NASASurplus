@@ -1,0 +1,12 @@
+
+ITEM|Mercury-Redstone Rocket|500000
+ITEM|Gemini-Titan Rocket|750000
+ITEM|Apollo Lunar Module|15000000
+WAIT|20
+ITEM|Space Shuttle|1500000000
+ITEM|Soyuz|100000000
+ITEM|Dragon|200000000
+ITEM|CST-100 Starliner|300000000
+ITEM|Orion|500000000
+ITEM|New Glenn|750000000
+ITEM|SpaceX Starship|1000000000
