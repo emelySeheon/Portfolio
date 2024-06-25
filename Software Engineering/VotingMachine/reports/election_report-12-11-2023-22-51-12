@@ -1,0 +1,17 @@
+Report: Election Report
+
+Election Report 'test-schema'
+Total voters: 27
+Question: What is your favorite fruit?
+	8 - Strawberry
+	0 - Pear
+Question: President of the United States of America
+	6 - George Lucas
+	7 - Wiley Coyote
+	1 - Other: mi diep
+Question: What is your favorite fruit?
+	0 - Pear
+	0 - Strawberry
+Question: President of the United States of America
+	0 - George Lucas
+	0 - Wiley Coyote

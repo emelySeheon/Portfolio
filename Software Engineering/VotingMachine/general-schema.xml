@@ -1,0 +1,84 @@
+<ballotSchema>
+    <schemaName>general-schema</schemaName>
+
+    <question type="candidate">
+        <summary>Governor</summary>
+        <question_text>Vote for governor:</question_text>
+        <options>
+            <option>
+                <option_text>Richard Michael DeWine</option_text>
+                <affiliation>Republican</affiliation>
+            </option>
+            <option>
+                <option_text>Nan Whaley</option_text>
+                <affiliation>Democrat</affiliation>
+            </option>
+            <option>
+                <option_text>Marshall Usher</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+            <option>
+                <option_text>Tim Grady</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+            <option>
+                <option_text>Renea Turner</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+            <option>
+                <option_text>Craig Patton</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+        </options>
+    </question>
+
+    <question type="candidate">
+        <summary>Senate</summary>
+        <question_text>Vote for Senate:</question_text>
+        <options>
+            <option>
+                <option_text>J. D. Vance</option_text>
+                <affiliation>Republican</affiliation>
+            </option>
+            <option>
+                <option_text>Tim Ryan</option_text>
+                <affiliation>Democrat</affiliation>
+            </option>
+            <option>
+                <option_text>John Cheng</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+            <option>
+                <option_text>Shane Hoffman</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+            <option>
+                <option_text>LaShondra Tinsley</option_text>
+                <affiliation>Independent</affiliation>
+            </option>
+        </options>
+    </question>
+
+    <question type="candidate">
+        <summary>House</summary>
+        <question_text>Vote for House:</question_text>
+        <options>
+            <option>
+                <option_text>Greg Landsman</option_text>
+                <affiliation>Democrat</affiliation>
+            </option>
+            <option>
+                <option_text>Steve Chabot</option_text>
+                <affiliation>Republican</affiliation>
+            </option>
+            <option>
+                <option_text>Brad Wenstrup</option_text>
+                <affiliation>Republican</affiliation>
+            </option>
+            <option>
+                <option_text>Joyce Beatty</option_text>
+                <affiliation>Democrat</affiliation>
+            </option>
+        </options>
+    </question>
+</ballotSchema>

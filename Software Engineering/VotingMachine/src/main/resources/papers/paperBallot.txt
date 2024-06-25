@@ -1,0 +1,44 @@
+*****************************************************************
+
+BALLOT
+Please vote for at most one option in each category.
+Place an 'x' in the brackets next to the option you select.
+
+*****************************************************************
+
+Social Security Number: 
+
+*****************************************************************
+
+Question #1
+What is your favorite fruit?
+[ ] Strawberry (Party: Ground)
+[ ] Pear (Party: Tree)
+[ ] Other: 
+
+*****************************************************************
+
+Question #2
+President of the United States of America
+[ ] George Lucas (Party: Lucas Arts)
+[ ] Wiley Coyote (Party: Acme Corp)
+[ ] Other: 
+
+*****************************************************************
+
+Question #3
+What is your favorite fruit?
+[ ] Pear (Party: Tree)
+[ ] Strawberry (Party: Ground)
+[ ] Other: 
+
+*****************************************************************
+
+Question #4
+President of the United States of America
+[ ] George Lucas (Party: Lucas Arts)
+[ ] Wiley Coyote (Party: Acme Corp)
+[ ] Other: 
+
+*****************************************************************
+

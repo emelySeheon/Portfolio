@@ -1,0 +1,35 @@
+<ballotSchema>
+    <schemaName>test-schema</schemaName>
+    <question type="candidate">
+        <summary>President</summary>
+        <question_text>President of the United States of America</question_text>
+        <options>
+            <option>
+                <option_text>George Lucas</option_text>
+                <affiliation>Lucas Arts</affiliation>
+            </option>
+            <option>
+                <option_text>Wiley Coyote</option_text>
+                <affiliation>Acme Corp</affiliation>
+            </option>
+            <option>
+                <option_text>Wiley</option_text>
+                <affiliation>Acme Corp</affiliation>
+            </option>
+        </options>
+    </question>
+    <question type="candidate">
+        <summary>Fruit</summary>
+        <question_text>What is your favorite fruit?</question_text>
+        <options>
+            <option>
+                <option_text>Strawberry</option_text>
+                <affiliation>Ground</affiliation>
+            </option>
+            <option>
+                <option_text>Pear</option_text>
+                <affiliation>Tree</affiliation>
+            </option>
+        </options>
+    </question>
+</ballotSchema>

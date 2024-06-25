@@ -36,3 +36,9 @@ bin/
 /.nb-gradle/
 .vscode/
 .DS_Store
+target/
+*.class
+*.db
+election-gdb
+/target
+*/target
