@@ -1,3 +1,12 @@
 [submodule "Cybersecurity/CS-444-544-Large-Project"]
 	path = Cybersecurity/CS-444-544-Large-Project
 	url = https://github.com/lservilla/CS-444-544-Large-Project.git
+[submodule "Discover and Apply AI/Discover-and-Apply-AI/ApplyAI"]
+	path = Discover and Apply AI/Discover-and-Apply-AI/ApplyAI
+	url = https://github.com/myrrhkhan/ApplyAIPneumonniaAnalysis.git
+[submodule "Discover and Apply AI/ApplyAI"]
+	path = Discover and Apply AI/ApplyAI
+	url = https://github.com/myrrhkhan/ApplyAIPneumonniaAnalysis.git
+[submodule "Cybersecurity/SQLWebsite"]
+	path = Cybersecurity/SQLWebsite
+	url = https://github.com/lservilla/CS-444-544-Large-Project.git
