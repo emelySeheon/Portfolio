@@ -1,3 +1,3 @@
 In Spring 2024, I took an Advanced Game Development Class. In this class, we are making two games using Unity, one in 2D and one in 3D. We are working in groups, and my role in the group is a programmer.
- For our 2D game, we made a game similar to Papers Please, but in our game, you play as someone inspecting packages that will cross the border. Play our game here. 
-Our 3D game had a theme of "keep it alive." You play as a bodyguard for an adorable VIP who just happens to be wanted. Play our game here
+- For our 2D game, we made a game similar to [Papers Please](https://papersplea.se/), but in our game, you play as someone inspecting packages that will cross the border. Play our game [here](https://emelyseheon.itch.io/parcels-please). 
+- Our 3D game had a theme of "keep it alive." You play as a bodyguard for an adorable VIP who just happens to be wanted. Play our game [here](https://emelyseheon.itch.io/fluffense).
