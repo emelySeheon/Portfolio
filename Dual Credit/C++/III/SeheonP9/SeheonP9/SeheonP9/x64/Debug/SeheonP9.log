@@ -1,0 +1,11 @@
+﻿  Functions.cpp
+  SeheonP9.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\SeheonP9\SeheonP9.cpp(329,29): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\SeheonP9\SeheonP9.cpp(329,45): warning C4804: '<': unsafe use of type 'bool' in operation
+  StudentUser.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\SeheonP9\StudentUser.cpp(21,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\SeheonP9\StudentUser.cpp(62,1): warning C4172: returning address of local variable or temporary: i
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\SeheonP9\StudentUser.cpp(72,1): warning C4172: returning address of local variable or temporary: i
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\SeheonP9\StudentUser.cpp(52,1): warning C4172: returning address of local variable or temporary: i
+  SeheonP9.vcxproj -> C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP9\SeheonP9\x64\Debug\SeheonP9.exe

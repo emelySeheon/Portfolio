@@ -1,0 +1,62 @@
+ARNOLD, JANE
+GRAHAM, JAMES
+MORALES, BEVERLY
+ADAMS, FRED
+CARPENTER, AMBER
+COOPER, TIMOTHY
+CARLSON, PAMELA
+ADAMS, RAUL
+WELLS, LAURA
+DUNN, GREG
+CARR, MILDRED
+RICHARDS, LEON
+HICKS, SALLY
+RICHARDS, HAROLD
+RYAN, WILMA
+BUTLER, CALVIN
+COLEMAN, BRANDY
+FLEMING, BRENT
+LOWE, DARLENE
+LUCAS, RODNEY
+
+Sequential
+Name: ADAMS, FRED
+Found: No
+Position: -1
+Number of Compares: 1
+
+
+Binary
+Name: ADAMS, FRED
+Found: Yes
+Position: 2
+Number of Compares: 10
+
+
+Recursive
+Name: ADAMS, FRED
+Found: Yes
+Position: 2
+Number of Compares: 10
+
+
+Sequential
+Name: ADAMS, FRED
+Found: No
+Position: -1
+Number of Compares: 1
+
+
+Binary
+Name: ADAMS, FRED
+Found: Yes
+Position: 2
+Number of Compares: 10
+
+
+Recursive
+Name: ADAMS, FRED
+Found: Yes
+Position: 2
+Number of Compares: 10
+

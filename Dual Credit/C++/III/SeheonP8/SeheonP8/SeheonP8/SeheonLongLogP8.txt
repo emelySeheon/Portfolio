@@ -1,0 +1,603 @@
+Name: Emely Seheon
+Program: SeheonP8
+Objective: To make a circular queue with unique pointers
+Date: 4/16/21
+
+1. Show who is standing in line
+2. Add a person to the end of the line
+3. Show who is on the front of the line
+4. Show who is in the back of the line
+5. Serve(or Pop) the Person pointer at the front of the line
+6. Size
+7. Quit the Program
+
+Option 1 selected.
+Queue is empty.
+
+Option 3 selected.
+Front pointer is null.
+Queue is empty.
+
+Option 4 selected.
+Rear pointer is null.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 6 selected.
+0
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+ARNOLD, JANE:: 
+
+Option 1 selected.
+ARNOLD, JANE:: 
+
+Option 3 selected.
+ARNOLD, JANE
+ARNOLD, JANE:: 
+
+Option 4 selected.
+ARNOLD, JANE
+ARNOLD, JANE:: 
+
+Option 6 selected.
+1
+ARNOLD, JANE:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 1 selected.
+Queue is empty.
+
+Option 3 selected.
+Front pointer is null.
+Queue is empty.
+
+Option 4 selected.
+Rear pointer is null.
+Queue is empty.
+
+Option 6 selected.
+0
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 1 selected.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 3 selected.
+GRAHAM, JAMES
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 4 selected.
+ADAMS, RAUL
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 6 selected.
+7
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 1 selected.
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 3 selected.
+MORALES, BEVERLY
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 4 selected.
+ADAMS, RAUL
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 6 selected.
+6
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 1 selected.
+Queue is empty.
+
+Option 3 selected.
+Front pointer is null.
+Queue is empty.
+
+Option 4 selected.
+Rear pointer is null.
+Queue is empty.
+
+Option 6 selected.
+0
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: 
+
+Option 2 selected.
+Person added to the queue.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Queue is too full to add Person.
+WELLS, LAURA:: DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+DUNN, GREG:: CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+CARR, MILDRED:: RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+RICHARDS, LEON:: HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+HICKS, SALLY:: RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+RICHARDS, HAROLD:: RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+RYAN, WILMA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 1 selected.
+BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 3 selected.
+BUTLER, CALVIN
+BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 4 selected.
+FLEMING, BRENT
+BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 6 selected.
+3
+BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Person added to the queue.
+RHODES, LEON:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Person added to the queue.
+RHODES, LEON:: MURPHY, MONICA:: BUTLER, CALVIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+RHODES, LEON:: MURPHY, MONICA:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 2 selected.
+Person added to the queue.
+RHODES, LEON:: MURPHY, MONICA:: NGUYEN, FRANKLIN:: COLEMAN, BRANDY:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+RHODES, LEON:: MURPHY, MONICA:: NGUYEN, FRANKLIN:: FLEMING, BRENT:: 
+
+Option 5 selected.
+Person removed from the queue.
+RHODES, LEON:: MURPHY, MONICA:: NGUYEN, FRANKLIN:: 
+
+Option 5 selected.
+Person removed from the queue.
+MURPHY, MONICA:: NGUYEN, FRANKLIN:: 
+
+Option 2 selected.
+Person added to the queue.
+MURPHY, MONICA:: NGUYEN, FRANKLIN:: HOFFMAN, MEGAN:: 
+
+Option 2 selected.
+Person added to the queue.
+MURPHY, MONICA:: NGUYEN, FRANKLIN:: HOFFMAN, MEGAN:: HAYES, DONALD:: 
+
+Option 5 selected.
+Person removed from the queue.
+NGUYEN, FRANKLIN:: HOFFMAN, MEGAN:: HAYES, DONALD:: 
+
+Option 2 selected.
+Person added to the queue.
+NGUYEN, FRANKLIN:: HOFFMAN, MEGAN:: HAYES, DONALD:: ORTIZ, BETTY:: 
+
+Option 5 selected.
+Person removed from the queue.
+HOFFMAN, MEGAN:: HAYES, DONALD:: ORTIZ, BETTY:: 
+
+Option 1 selected.
+HOFFMAN, MEGAN:: HAYES, DONALD:: ORTIZ, BETTY:: 
+
+Option 4 selected.
+ORTIZ, BETTY
+HOFFMAN, MEGAN:: HAYES, DONALD:: ORTIZ, BETTY:: 
+
+Option 5 selected.
+Person removed from the queue.
+HAYES, DONALD:: ORTIZ, BETTY:: 
+
+Option 2 selected.
+Person added to the queue.
+HAYES, DONALD:: ORTIZ, BETTY:: MCDONALD, JOSE:: 
+
+Option 5 selected.
+Person removed from the queue.
+ORTIZ, BETTY:: MCDONALD, JOSE:: 
+
+Option 5 selected.
+Person removed from the queue.
+MCDONALD, JOSE:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+POWELL, PEGGY:: 
+
+Option 2 selected.
+Person added to the queue.
+POWELL, PEGGY:: SUTTON, JONATHAN:: 
+
+Option 8 selected.
+Invalid choice.
+POWELL, PEGGY:: SUTTON, JONATHAN:: 
+
+Option 9 selected.
+Invalid choice.
+POWELL, PEGGY:: SUTTON, JONATHAN:: 
+
+Option 10 selected.
+Invalid choice.
+POWELL, PEGGY:: SUTTON, JONATHAN:: 
+
+Option 11 selected.
+Invalid choice.
+POWELL, PEGGY:: SUTTON, JONATHAN:: 
+
+Option 2 selected.
+Person added to the queue.
+POWELL, PEGGY:: SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 5 selected.
+Person removed from the queue.
+SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 3 selected.
+SUTTON, JONATHAN
+SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 4 selected.
+OLSON, JANET
+SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 6 selected.
+2
+SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 1 selected.
+SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 3 selected.
+SUTTON, JONATHAN
+SUTTON, JONATHAN:: OLSON, JANET:: 
+
+Option 2 selected.
+Person added to the queue.
+SUTTON, JONATHAN:: OLSON, JANET:: LARSON, EDUARDO:: 
+
+Option 5 selected.
+Person removed from the queue.
+OLSON, JANET:: LARSON, EDUARDO:: 
+
+Option 5 selected.
+Person removed from the queue.
+LARSON, EDUARDO:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+KIM, MABEL:: 
+
+Option 1 selected.
+KIM, MABEL:: 
+
+Option 3 selected.
+KIM, MABEL
+KIM, MABEL:: 
+
+Option 4 selected.
+KIM, MABEL
+KIM, MABEL:: 
+
+Option 6 selected.
+1
+KIM, MABEL:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: 
+
+Option 2 selected.
+Person added to the queue.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: 
+
+Option 1 selected.
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: 
+
+Option 3 selected.
+ROBERTS, DAVID
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: 
+
+Option 4 selected.
+RIVERA, THELMA
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: 
+
+Option 6 selected.
+8
+ROBERTS, DAVID:: WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: 
+
+Option 5 selected.
+Person removed from the queue.
+WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: 
+
+Option 2 selected.
+Person added to the queue.
+WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 1 selected.
+WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 3 selected.
+WARD, ANITA
+WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 4 selected.
+PIERCE, HERBERT
+WARD, ANITA:: ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 5 selected.
+Person removed from the queue.
+ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 6 selected.
+7
+ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 3 selected.
+ALEXANDER, DWAYNE
+ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: 
+
+Option 2 selected.
+Person added to the queue.
+ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 6 selected.
+8
+ALEXANDER, DWAYNE:: CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+CASTILLO, DEBORAH:: MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+MONTGOMERY, CARLOS:: ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+ANDERSON, THELMA:: JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+JACOBS, DEREK:: RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+RIVERA, THELMA:: PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+PIERCE, HERBERT:: DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+DOUGLAS, ANNETTE:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+EDWARDS, SERGIO:: 
+
+Option 2 selected.
+Person added to the queue.
+EDWARDS, SERGIO:: JOHNSON, TIFFANY:: 
+
+Option 2 selected.
+Person added to the queue.
+EDWARDS, SERGIO:: JOHNSON, TIFFANY:: FOSTER, JOHN:: 
+
+Option 2 selected.
+Person added to the queue.
+EDWARDS, SERGIO:: JOHNSON, TIFFANY:: FOSTER, JOHN:: STEVENS, RAMONA:: 
+
+Option 2 selected.
+Person added to the queue.
+EDWARDS, SERGIO:: JOHNSON, TIFFANY:: FOSTER, JOHN:: STEVENS, RAMONA:: MARTIN, CLYDE:: 
+
+Option 7 selected.
+EDWARDS, SERGIO:: JOHNSON, TIFFANY:: FOSTER, JOHN:: STEVENS, RAMONA:: MARTIN, CLYDE:: 

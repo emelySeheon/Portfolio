@@ -1,0 +1,189 @@
+Name: Emely Seheon
+Program: SeheonP8
+Objective: To make a circular queue with unique pointers
+Date: 4/16/21
+
+1. Show who is standing in line
+2. Add a person to the end of the line
+3. Show who is on the front of the line
+4. Show who is in the back of the line
+5. Serve(or Pop) the Person pointer at the front of the line
+6. Size
+7. Quit the Program
+
+Option 1 selected.
+Queue is empty.
+
+Option 3 selected.
+Front pointer is null.
+Queue is empty.
+
+Option 4 selected.
+Rear pointer is null.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 6 selected.
+0
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+ARNOLD, JANE:: 
+
+Option 1 selected.
+ARNOLD, JANE:: 
+
+Option 3 selected.
+ARNOLD, JANE
+ARNOLD, JANE:: 
+
+Option 4 selected.
+ARNOLD, JANE
+ARNOLD, JANE:: 
+
+Option 6 selected.
+1
+ARNOLD, JANE:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 1 selected.
+Queue is empty.
+
+Option 3 selected.
+Front pointer is null.
+Queue is empty.
+
+Option 4 selected.
+Rear pointer is null.
+Queue is empty.
+
+Option 6 selected.
+0
+Queue is empty.
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: 
+
+Option 2 selected.
+Person added to the queue.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 1 selected.
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 3 selected.
+GRAHAM, JAMES
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 4 selected.
+ADAMS, RAUL
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 6 selected.
+7
+GRAHAM, JAMES:: MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 1 selected.
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 3 selected.
+MORALES, BEVERLY
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 4 selected.
+ADAMS, RAUL
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 6 selected.
+6
+MORALES, BEVERLY:: ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+ADAMS, FRED:: CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+CARPENTER, AMBER:: COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+COOPER, TIMOTHY:: CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+CARLSON, PAMELA:: ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+ADAMS, RAUL:: 
+
+Option 5 selected.
+Person removed from the queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 5 selected.
+Can not remove from an empty queue.
+Queue is empty.
+
+Option 1 selected.
+Queue is empty.
+
+Option 3 selected.
+Front pointer is null.
+Queue is empty.
+
+Option 4 selected.
+Rear pointer is null.
+Queue is empty.
+
+Option 6 selected.
+0
+Queue is empty.
+
+Option 7 selected.
+Queue is empty.

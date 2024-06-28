@@ -1,0 +1,310 @@
+Name: Emely Seheon
+Program: SeheonP5 Linked Lists
+Objective: To create a linked list of person objects.
+Date: 3/16/21
+
+1. Show list
+2. Add to front of list
+3. Add to back of list
+4. Remove from front
+5. Remove from back
+6. Remove selected item
+7. Front
+8. Back
+9. Erase
+10. Clear
+11. Size
+12. Quit the program
+
+Option 6 selected.
+Deleting VIRGINIA
+Person(s) deleted if they were in the list: VIRGINIA
+0 items
+
+
+Option 9 selected.
+Erasing position 4
+Person at position 4 has been deleted.
+0 items
+
+
+Option 5 selected.
+Person removed from the back.
+0 items
+
+
+Option 4 selected.
+Person removed from the front.
+0 items
+
+
+Option 1 selected.
+0 items
+
+
+Option 3 selected.
+Person added to the back.
+1 items
+WALLACE, JO:: 
+
+Option 3 selected.
+Person added to the back.
+2 items
+WALLACE, JO:: RAY, JUAN:: 
+
+Option 3 selected.
+Person added to the back.
+3 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: 
+
+Option 3 selected.
+Person added to the back.
+4 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: 
+
+Option 3 selected.
+Person added to the back.
+5 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: 
+
+Option 3 selected.
+Person added to the back.
+6 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: 
+
+Option 3 selected.
+Person added to the back.
+7 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: 
+
+Option 3 selected.
+Person added to the back.
+8 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: MILLER, ALVIN:: 
+
+Option 3 selected.
+Person added to the back.
+9 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: MILLER, ALVIN:: LEE, HELEN:: 
+
+Option 3 selected.
+Person added to the back.
+10 items
+WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: MILLER, ALVIN:: LEE, HELEN:: ANDERSON, FREDDIE:: 
+
+Option 2 selected.
+Person added to the front.
+11 items
+BRYANT, SANDRA:: WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: MILLER, ALVIN:: LEE, HELEN:: 
+
+Option 2 selected.
+Person added to the front.
+12 items
+ROBERTSON, JORGE:: BRYANT, SANDRA:: WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: MILLER, ALVIN:: 
+
+Option 2 selected.
+Person added to the front.
+13 items
+WILLIS, SHELLY:: ROBERTSON, JORGE:: BRYANT, SANDRA:: WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: SIMMONS, ROBERT:: PORTER, TRACY:: HOLMES, ROBERT:: JACKSON, JANICE:: MILLER, ALVIN:: LEE, HELEN:: ANDERSON, FREDDIE:: 
+
+Option 6 selected.
+Deleting ROBERT
+Person(s) deleted if they were in the list: ROBERT
+10 items
+WILLIS, SHELLY:: BRYANT, SANDRA:: WALLACE, JO:: RAY, JUAN:: HERNANDEZ, PAULINE:: PORTER, TRACY:: JACKSON, JANICE:: MILLER, ALVIN:: LEE, HELEN:: ANDERSON, FREDDIE:: 
+
+Option 10 selected.
+List cleared.
+0 items
+
+
+Option 6 selected.
+Deleting VIRGINIA
+Person(s) deleted if they were in the list: VIRGINIA
+0 items
+
+
+Option 9 selected.
+Erasing position 4
+Person at position 4 has been deleted.
+0 items
+
+
+Option 5 selected.
+Person removed from the back.
+0 items
+
+
+Option 4 selected.
+Person removed from the front.
+0 items
+
+
+Option 1 selected.
+0 items
+
+
+Option 2 selected.
+Person added to the front.
+1 items
+RICHARDS, RENE:: 
+
+Option 2 selected.
+Person added to the front.
+2 items
+MENDOZA, KATHY:: RICHARDS, RENE:: 
+
+Option 2 selected.
+Person added to the front.
+3 items
+KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: 
+
+Option 2 selected.
+Person added to the front.
+4 items
+MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: 
+
+Option 2 selected.
+Person added to the front.
+5 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: 
+
+Option 3 selected.
+Person added to the back.
+6 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: 
+
+Option 3 selected.
+Person added to the back.
+7 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: 
+
+Option 3 selected.
+Person added to the back.
+8 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: 
+
+Option 3 selected.
+Person added to the back.
+9 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: 
+
+Option 3 selected.
+Person added to the back.
+10 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: HERNANDEZ, DOROTHY:: 
+
+Option 11 selected.
+The size of the list is 10.
+10 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: HERNANDEZ, DOROTHY:: 
+
+Option 7 selected.
+Pointer to MCKINNEY, CECIL saved.
+10 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: HERNANDEZ, DOROTHY:: 
+
+Option 8 selected.
+Pointer to HERNANDEZ, DOROTHY saved.
+10 items
+MCKINNEY, CECIL:: MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: HERNANDEZ, DOROTHY:: 
+
+Option 4 selected.
+Person removed from the front.
+9 items
+MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: HERNANDEZ, DOROTHY:: 
+
+Option 5 selected.
+Person removed from the back.
+8 items
+MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: 
+
+Option 7 selected.
+Pointer to MITCHELL, ROBERTA saved.
+8 items
+MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: 
+
+Option 8 selected.
+Pointer to KNIGHT, JUSTIN saved.
+8 items
+MITCHELL, ROBERTA:: KENNEDY, WALLACE:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: 
+
+Option 9 selected.
+Erasing position 2
+Person at position 2 has been deleted.
+7 items
+MITCHELL, ROBERTA:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: 
+
+Option 9 selected.
+Erasing position 8
+Person at position 8 has been deleted.
+7 items
+MITCHELL, ROBERTA:: MENDOZA, KATHY:: RICHARDS, RENE:: OLSON, JAMIE:: CALDWELL, FREDDIE:: BATES, DIANE:: KNIGHT, JUSTIN:: 
+
+Option 10 selected.
+List cleared.
+0 items
+
+
+Option 3 selected.
+Person added to the back.
+1 items
+MATTHEWS, DWAYNE:: 
+
+Option 3 selected.
+Person added to the back.
+2 items
+MATTHEWS, DWAYNE:: LANE, JULIE:: 
+
+Option 3 selected.
+Person added to the back.
+3 items
+MATTHEWS, DWAYNE:: LANE, JULIE:: EVANS, DAVE:: 
+
+Option 5 selected.
+Person removed from the back.
+2 items
+MATTHEWS, DWAYNE:: LANE, JULIE:: 
+
+Option 5 selected.
+Person removed from the back.
+1 items
+MATTHEWS, DWAYNE:: 
+
+Option 5 selected.
+Person removed from the back.
+0 items
+
+
+Option 2 selected.
+Person added to the front.
+1 items
+FORD, FLORENCE:: 
+
+Option 2 selected.
+Person added to the front.
+2 items
+KNIGHT, STEVE:: FORD, FLORENCE:: 
+
+Option 2 selected.
+Person added to the front.
+3 items
+HALE, AMANDA:: KNIGHT, STEVE:: FORD, FLORENCE:: 
+
+Option 4 selected.
+Person removed from the front.
+2 items
+KNIGHT, STEVE:: FORD, FLORENCE:: 
+
+Option 4 selected.
+Person removed from the front.
+1 items
+FORD, FLORENCE:: 
+
+Option 10 selected.
+List cleared.
+0 items
+
+
+Option 12 selected.
+0 items

@@ -1,0 +1,12 @@
+Name: Emely Seheon
+Number of integer values sorted by each routine: 100000
+Name of sort function:        Elapsed time in milliseconds:
+Bubble Sort                   26836
+Comb Sort                     20
+Goofy Sort                    10788
+In-Place Merge Sort           3999
+Insertion Sort                5854
+Recursive Quick Sort          13
+Selection Sort                11247
+Shaker Sort                   6436
+Shell Sort                    22

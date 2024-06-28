@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Functions.cpp
+C:\Users\emely\Documents\Classes\C++\Week 6\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Functions.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\Week 6\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Functions.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\Week 6\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Functions.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\Week 6\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Functions.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Driver.cpp
+C:\Users\emely\Documents\Classes\C++\Week 6\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Functions.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+Driver.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Prog4-02_AskNameAgeFunc.vcxproj -> C:\Users\emely\Documents\Classes\C++\Week 6\Prog4-02_AskNameAgeFunc\Prog4-02_AskNameAgeFunc\Debug\Prog4-02_AskNameAgeFunc.exe

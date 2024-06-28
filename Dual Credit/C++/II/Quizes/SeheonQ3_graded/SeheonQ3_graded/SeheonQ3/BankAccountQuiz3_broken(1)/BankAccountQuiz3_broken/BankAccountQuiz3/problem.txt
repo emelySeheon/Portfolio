@@ -1,0 +1,4 @@
+Change the CheckingAccount class in How To 10.1 so that a $1 fee is
+levied for deposits or withdrawals in excess of three free monthly
+transactions. Place the code for computing the fee into a private member
+function that you call from the deposit and withdraw member functions.

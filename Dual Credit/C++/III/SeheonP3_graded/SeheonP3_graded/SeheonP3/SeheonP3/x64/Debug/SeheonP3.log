@@ -1,0 +1,28 @@
+﻿  Date.cpp
+  Person.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\Person.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\Person.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\Person.cpp(31,3): warning C4551: function call missing argument list
+  PersonGen.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\PersonGen.cpp(119,3): warning C4551: function call missing argument list
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\PersonGen.cpp(137,6): warning C4101: 'randFirst': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\PersonGen.cpp(136,6): warning C4101: 'gender': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\PersonGen.cpp(138,6): warning C4101: 'randLast': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\PersonGen.cpp(179,66): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\PersonGen.cpp(185,66): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Search.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\Search.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\Search.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TestDriver.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\Search.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\SeheonP3\TestDriver.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  SeheonP3.vcxproj -> C:\Users\emely\Documents\Classes\C++\III\SeheonP3_graded\SeheonP3_graded\SeheonP3\x64\Debug\SeheonP3.exe

@@ -1,0 +1,54 @@
+Originals: 
+Sentences: 
+The green ball went in the gutter.
+The Steeler's colors are black and yellow.
+The colors in our flag are red, white and blue.
+Carly is a brown dog.
+The moon is silver.
+A lovely red rose is on the table.
+My new car is black.
+You can do anything but lay off of my blue suede shoes.
+Tie a yellow ribbon around the old oak tree.
+The stoplight has red, green and yellow lights.
+Colors: 
+The green ball went in the gutter.
+The Steeler's colors are black and yellow.
+The colors in our flag are red, white and blue.
+Carly is a brown dog.
+The moon is silver.
+A lovely red rose is on the table.
+My new car is black.
+Phrases: 
+The green ball went in the gutter.
+The Steeler's colors are black and yellow.
+The colors in our flag are red, white and blue.
+Carly is a brown dog.
+The moon is silver.
+A lovely red rose is on the table.
+My new car is black.
+
+Results: 
+Number of modified sentences: 14
+Number of modifications for sentence 0: 1
+Number of modifications for sentence 1: 2
+Number of modifications for sentence 2: 3
+Number of modifications for sentence 3: 1
+Number of modifications for sentence 4: 0
+Number of modifications for sentence 5: 1
+Number of modifications for sentence 6: 1
+Number of modifications for sentence 7: 1
+Number of modifications for sentence 8: 1
+Number of modifications for sentence 9: 3
+Sentences: 
+The beautiful and rich ball went in the gutter.
+The Steeler's colors are glittery with diamonds and sunny and warm.
+The colors in our flag are expensive and elegant massive and stupid and gigantic yet gentle.
+Carly is a fast and agile dog.
+The moon is silver.
+A lovely expensive and elegant rose is on the table.
+My new car is glittery with diamonds.
+You can do anything but lay off of my gigantic yet gentle suede shoes.
+Tie a sunny and warm ribbon around the old oak tree.
+The stoplight has expensive and elegant beautiful and rich and sunny and warm lights.
+Name: Emely Seheon
+Project: SeheonP6

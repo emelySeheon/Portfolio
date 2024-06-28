@@ -1,0 +1,222 @@
+#This is a comment line, as are all the lines beginning with '#'s
+# Test Script for Program 7 CirQueue
+ 
+#Here is my test menu:
+#1. Show Queue
+#2. Add a person* to the end of the queue
+#3. Show who is in the front of the queue
+#4. Show the person in the back
+#5. Serve the person in the front of the queue
+#6. Size of the queue
+#7. Quit the program 
+
+ 
+#test that the program won't crash 
+#when we try show someone in an empty queue (3)
+3
+ 
+#Test that the program won't crash if we try
+#to serve a person in a empty queue (5)
+5
+ 
+#Show the size of the queue (6)
+6
+ 
+#Test that the program won't crash
+#if we try to show an empty queue. (1)
+1
+ 
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+ 
+#Show the person in front (3)
+3
+ 
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+ 
+#Serve the front person (5)
+5
+ 
+#Serve the front person (5)
+5
+
+#Show the count of the queue(6)
+6
+ 
+#Show the front person (3)
+3
+ 
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+
+#Show the size of the queue (6)
+6
+ 
+#Add a person (2)
+2
+ 
+#Serve the front person (5)
+5
+ 
+#Show the first person (3)
+3
+ 
+#Serve the front person (5)
+5
+ 
+#Serve the front person (5)
+5
+
+#Show the first person (3)
+3
+ 
+#Serve the front person (5)
+5
+
+#Show the back person (4)
+4
+ 
+#Serve the first person (5)
+5
+
+#Serve the first person (5)
+5
+ 
+#Serve the first person (5)
+5
+
+#Serve the first person (5)
+5
+
+#Get the count(6)
+6
+
+#Serve the front person (5)
+5
+
+#Serve the front person (5)
+5
+ 
+#Serve the front person (5)
+5
+ 
+#Show the first person (3)
+3
+
+#add a person (2)
+2
+ 
+#add a person (2)
+2
+ 
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+ 
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Show the back person(4)
+4
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+ 
+#Add a person  (2)
+2
+
+#Show the front person (3)
+3
+
+#Serve the front person (5)
+5
+
+#Serve the front person (5)
+5
+
+#Add a person to the back (2)
+2
+
+#Add a person (2)
+2
+
+#Show the front person (3)
+3
+
+#Serve the front person (5)
+5
+
+#Serve the front person (5)
+5
+
+#Serve the front person (4)
+5
+
+#Serve the front person (5)
+5
+
+#Show the back person(4)
+4
+
+#Add a person  (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person  (2)
+2
+
+#Add a person (2)
+2
+
+#Add a person (2)
+2
+
+#Exit the program (7)
+7

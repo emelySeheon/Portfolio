@@ -1,0 +1,7 @@
+﻿  Date.cpp
+  Person.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonPerson\SeheonPerson\SeheonPerson\Person.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonPerson\SeheonPerson\SeheonPerson\Person.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonPerson\SeheonPerson\SeheonPerson\Person.cpp(31,3): warning C4551: function call missing argument list
+  Generating Code...
+  SeheonPerson.vcxproj -> C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonPerson\SeheonPerson\Debug\SeheonPerson.lib

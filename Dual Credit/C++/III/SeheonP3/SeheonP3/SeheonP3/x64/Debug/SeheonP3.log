@@ -1,0 +1,9 @@
+﻿  TestDriver.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\Search.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\TestDriver.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\TestDriver.cpp(29,6): warning C4101: 'year': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\TestDriver.cpp(28,6): warning C4101: 'day': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\TestDriver.cpp(27,6): warning C4101: 'month': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\TestDriver.cpp(36,26): warning C4101: 'ex': unreferenced local variable
+C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\SeheonP3\TestDriver.cpp(63,8): warning C4101: 'c': unreferenced local variable
+  SeheonP3.vcxproj -> C:\Users\emely\Documents\Classes\C++\III\SeheonP3\SeheonP3\x64\Debug\SeheonP3.exe

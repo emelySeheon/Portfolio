@@ -1,0 +1,5 @@
+﻿  Formatting And Strings Demo.cpp
+C:\Users\emely\Documents\C++\Week 2\Formatting And Strings Demo\Formatting And Strings Demo\Formatting And Strings Demo.cpp(86,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\emely\Documents\C++\Week 2\Formatting And Strings Demo\Formatting And Strings Demo\Formatting And Strings Demo.cpp(87,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\emely\Documents\C++\Week 2\Formatting And Strings Demo\Formatting And Strings Demo\Formatting And Strings Demo.cpp(89,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Formatting And Strings Demo.vcxproj -> C:\Users\emely\Documents\C++\Week 2\Formatting And Strings Demo\x64\Debug\Formatting And Strings Demo.exe

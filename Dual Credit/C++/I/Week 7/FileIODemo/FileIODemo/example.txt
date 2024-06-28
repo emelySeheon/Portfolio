@@ -1,0 +1,3 @@
+Sample text to write into file
+Time stamp: 6/3030/2020 22:18:41.
+Time from char functions: 06/30/20 22:18:41

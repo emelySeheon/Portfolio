@@ -1,0 +1,15 @@
+﻿  Driver.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Driver.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Driver.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Driver.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Driver.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Driver.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Functions.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Functions.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Functions.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Functions.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Functions.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Functions.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\SeheonP7pt2\Functions.cpp(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  SeheonP7pt2.vcxproj -> C:\Users\emely\Documents\Old Comp\Classes\C++\I\Programs\SeheonP7pt2\x64\Debug\SeheonP7pt2.exe

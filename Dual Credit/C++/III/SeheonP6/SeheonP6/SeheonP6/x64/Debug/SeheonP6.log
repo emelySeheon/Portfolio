@@ -1,0 +1,88 @@
+﻿  Date.cpp
+  Person.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\Person.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\Person.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\Person.cpp(31,3): warning C4551: function call missing argument list
+  PersonGen.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\PersonGen.cpp(119,3): warning C4551: function call missing argument list
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\PersonGen.cpp(137,6): warning C4101: 'randFirst': unreferenced local variable
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\PersonGen.cpp(136,6): warning C4101: 'gender': unreferenced local variable
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\PersonGen\PersonGen.cpp(138,6): warning C4101: 'randLast': unreferenced local variable
+  SeheonP6.cpp
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(550,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(550,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(550,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(550,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(550,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(551,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(551,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(551,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(551,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(551,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(552,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(552,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(552,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(552,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(552,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(553,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(553,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(553,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(553,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(553,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(554,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(554,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(554,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(554,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(554,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(556,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(556,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(556,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(556,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(556,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(557,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(557,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(557,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(557,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(557,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(558,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(558,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(558,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(558,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(558,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(559,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(559,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(559,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(559,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(559,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(560,16): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(560,16): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(560,16): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(560,16): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(560,16): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(562,17): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(562,17): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(562,17): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(562,17): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(562,17): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(563,17): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(563,17): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(563,17): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(563,17): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(563,17): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(564,17): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(564,17): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(564,17): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(564,17): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(564,17): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(565,17): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(565,17): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(565,17): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(565,17): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(565,17): warning C4244:         ]
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(566,17): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(566,17): warning C4244:         with
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(566,17): warning C4244:         [
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(566,17): warning C4244:             _Rep=__int64
+C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\SeheonP6\SeheonP6.cpp(566,17): warning C4244:         ]
+  Generating Code...
+  SeheonP6.vcxproj -> C:\Users\emely\Documents\Old Comp\Classes\C++\III\SeheonP6\SeheonP6\x64\Debug\SeheonP6.exe

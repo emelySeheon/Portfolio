@@ -1,0 +1,25 @@
+Name: Emely Seheon
+Number of integer values sorted by each routine: 200,000
+Number of string values sorted by each routine: 25,000
+Number of Person values sorted by each routine: 10,000
+Template sort information for integers: 
+Name of sort function:        Elapsed time in sec.ms:
+Bubble Sort                   159:496
+Comb Sort                     0:44
+Insertion Sort                24:98
+Selection Sort                45:102
+Shaker Sort                   25:856
+Template sort information for strings: 
+Name of sort function:        Elapsed time in sec.ms:
+Bubble Sort                   304:588
+Comb Sort                     0:638
+Insertion Sort                80:949
+Selection Sort                68:503
+Shaker Sort                   70:748
+Template sort information for Persons: 
+Name of sort function:        Elapsed time in sec.ms:
+Bubble Sort                   356:76
+Comb Sort                     1:192
+Insertion Sort                91:244
+Selection Sort                150:574
+Shaker Sort                   151:617

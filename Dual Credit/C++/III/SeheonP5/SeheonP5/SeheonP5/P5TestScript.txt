@@ -1,0 +1,131 @@
+# ignore lines that start with # or space
+ 
+ 
+#test all the obvious crashes
+#try to remove someone from an empty list
+6
+VIRGINIA
+
+#erase a position that doesn't exist
+9
+4
+ 
+#remove back from an empty list
+5
+ 
+#remove front from an empty list
+4
+ 
+# show the list
+1
+ 
+# add 10 people to the rear
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+# add to the front
+2
+ 
+# add to the front
+2
+ 
+ 
+# add to the front
+2
+# remove selected item
+6
+ROBERT
+# Clearing the list
+10
+ 
+ 
+#retest on an empty list
+#try to remove someone from an empty list
+6
+VIRGINIA
+ 
+#erase a position that doesn't exist
+9
+4
+ 
+#remove back from an empty list
+5
+
+#remove front from an empty list
+4
+ 
+#start adding into list
+#show list
+1
+# add to 5 the front
+2
+2
+2
+2
+2
+ 
+# add 5 to the rear
+3
+3
+3
+3
+3
+ 
+# how many now?
+11
+#who is on the front?
+7
+#who is on the back?
+8
+ 
+ 
+#pop front
+4
+#pop back
+5
+ 
+#who is on the front?
+7
+#who is on the back?
+8
+ 
+ 
+#erase the 2nd node
+9
+2
+ 
+#erase the 8th node
+9
+8
+ 
+#clear the list
+10
+ 
+ 
+#add 3 onto rear, then pop 3 off from back
+3
+3
+3
+5
+5
+5
+ 
+#add 3 onto front, pop 2 off front
+2
+2
+2
+4
+4
+ 
+#clear
+10
+ 
+# quit
+12

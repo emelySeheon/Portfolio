@@ -1,0 +1,4 @@
+﻿  TestDriver.cpp
+C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonTesterP1\SeheonTesterP1\TestDriver.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonTesterP1\SeheonTesterP1\TestDriver.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SeheonTesterP1.vcxproj -> C:\Users\emely\Documents\Classes\C++\III\SeheonP1\SeheonTesterP1\Debug\SeheonTesterP1.exe
